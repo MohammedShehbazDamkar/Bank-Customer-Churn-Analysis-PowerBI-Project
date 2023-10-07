@@ -1,3 +1,4 @@
+![Bank Churn Analysis Power BI Project](https://github.com/MohammedShehbazDamkar/Bank-Customer-Churn-Analysis-PowerBI-Project/raw/main/Bank%20Churn%20Analysis%20Power%20BI%20Project.png)
 
 # Bank-Churn-Analysis-PowerBI-Project
 
